@@ -1,7 +1,5 @@
-# DialogWAE
 
-It is a PyTorch implementation of the DialogWAE model described in
-[**DialogWAE: Multimodal Response Generation with Conditional Wasserstein Auto-Encoder**](https://arxiv.org/abs/1805.12352). 
+It is a PyTorch implementation of the DialgWAE model
 
 ## Dependency
  - PyTorch 0.4.0
@@ -38,16 +36,6 @@ Run model testing by:
 The outputs will be printed to stdout and generated responses will be saved at `results.txt` in the `./output` path.
 
 
-## References 
-If you use any source code included in this toolkit in your work, please cite the following paper:
-```
-@inproceedings{gu2018dialogwae,
-      title={Dialog{WAE}: Multimodal Response Generation with Conditional Wasserstein Auto-Encoder},
-      author={Gu, Xiaodong and Cho, Kyunghyun and Ha, Jung-Woo and Kim, Sunghun},
-      journal={arXiv preprint arXiv:1805.12352},
-      year={2018}
-}
-```
 
 # LICENSE
 
