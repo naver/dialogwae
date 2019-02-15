@@ -39,7 +39,7 @@ The outputs will be printed to stdout and generated responses will be saved at `
 
 # LICENSE
 
-Copyright 2018 NAVER Corp.
+Copyright 2019 NAVER Corp.
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
